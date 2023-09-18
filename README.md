@@ -11,6 +11,8 @@
 ### Homework:
 - Submitted: https://canvas.newschool.edu/courses/1719884/assignments/11627598/submissions/6313792 
 
+
+
 ## Week 2
 ### Documentation:
 - Node cheerio module
@@ -21,10 +23,6 @@
 - [Data Structures_AA Algorithm Data _9.12.23.docx](https://github.com/sophiegraves/data-structures/files/12645190/Data.Structures_AA.Algorithm.Data._9.12.23.docx)
 
 
-## Week 3
-### Documentation:
-- Manually inputted AA data into array on colab
-- [Link](https://github.com/sophiegraves/data-structures/blob/c743cec36d90b14deda5e68e5721e06b4caeaef9/Week%203%20Assignment.ipynb)
 
 
 ## Week 3
@@ -33,3 +31,7 @@
 - TAMU GeoServices Geocoding APIS
 - Node Async module
 - Tutorial: creating and using environment variables in Linux.
+
+### Homework
+- Manually inputted AA data into array on colab
+- [Link](https://github.com/sophiegraves/data-structures/blob/c743cec36d90b14deda5e68e5721e06b4caeaef9/Week%203%20Assignment.ipynb)
