@@ -1,7 +1,7 @@
 # Documentation
 
 ## Week 1 
-Documentation:
+<b>Documentation:</b>
 - What is npm?
 - Node got module
 - Node fs module
