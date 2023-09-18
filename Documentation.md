@@ -1,10 +1,10 @@
 # Documentation
 
 ## Week 1 
-- Documentation:
-/t - What is npm?
-/t - Node got module
-/t - Node fs module
+Documentation:
+- What is npm?
+- Node got module
+- Node fs module
 
 ## Week 2
 
