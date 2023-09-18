@@ -12,7 +12,7 @@
 
 ### Homework:
 - Manually inputted AA data into array on colab
-- Link: 
+- Link: https://github.com/sophiegraves/data-structures/blob/c743cec36d90b14deda5e68e5721e06b4caeaef9/Week%203%20Assignment.ipynb 
 
 ## Week 3
 ### Documentation:
