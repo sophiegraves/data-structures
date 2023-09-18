@@ -8,6 +8,9 @@
 - Node got module
 - Node fs module
 
+### Homework:
+- Submitted: https://canvas.newschool.edu/courses/1719884/assignments/11627598/submissions/6313792 
+
 ## Week 2
 ### Documentation:
 - Node cheerio module
