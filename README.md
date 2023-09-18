@@ -12,6 +12,7 @@
 
 ### Homework:
 - Manually inputted AA data into array on colab
+- Link: 
 
 ## Week 3
 ### Documentation:
