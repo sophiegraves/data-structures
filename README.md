@@ -19,8 +19,8 @@
 - Introduction to the DOM
 
 ### Homework:
-- Submitted: https://canvas.newschool.edu/courses/1719884/assignments/11646598
 - [Data Structures_AA Algorithm Data _9.12.23.docx](https://github.com/sophiegraves/data-structures/files/12645190/Data.Structures_AA.Algorithm.Data._9.12.23.docx)
+- Submitted via Canvas
 
 
 
