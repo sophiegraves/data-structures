@@ -18,11 +18,13 @@
 
 ### Homework:
 - Submitted: https://canvas.newschool.edu/courses/1719884/assignments/11646598
+- [Data Structures_AA Algorithm Data _9.12.23.docx]
 
 ## Week 3
 ### Documentation:
 - Manually inputted AA data into array on colab
 - Link: https://github.com/sophiegraves/data-structures/blob/c743cec36d90b14deda5e68e5721e06b4caeaef9/Week%203%20Assignment.ipynb 
+(https://github.com/sophiegraves/data-structures/files/12645189/Data.Structures_AA.Algorithm.Data._9.12.23.docx)
 
 ## Week 3
 ### Documentation:
