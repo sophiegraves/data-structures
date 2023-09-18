@@ -20,7 +20,7 @@
 
 ### Homework:
 - [Data Structures_AA Algorithm Data _9.12.23.docx](https://github.com/sophiegraves/data-structures/files/12645190/Data.Structures_AA.Algorithm.Data._9.12.23.docx)
-- Submitted via Canvas
+- _Submitted via Canvas_
 
 
 
