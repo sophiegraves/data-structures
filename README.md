@@ -14,7 +14,7 @@
 - Introduction to the DOM
 
 ### Homework:
-- Submitted: [(https://canvas.newschool.edu/courses/1719884/assignments/11646598)]
+- Submitted: https://canvas.newschool.edu/courses/1719884/assignments/11646598
 
 ## Week 3
 ### Documentation:
